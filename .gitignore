@@ -1,0 +1,13 @@
+*.log
+*.tmp
+*.swp
+/build/
+/out/
+/dist/
+*.class
+.env
+*.iml
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
